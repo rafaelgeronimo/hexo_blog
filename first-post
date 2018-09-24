@@ -10,7 +10,7 @@
   <meta name="description" content="Hello World!">
 <meta property="og:type" content="article">
 <meta property="og:title" content="first-post">
-<meta property="og:url" content="http://rafaelgeronimo.github.io/2018/09/24/first-post/index.html">
+<meta property="og:url" content="http://rafaelgeronimo.github.io/first-post">
 <meta property="og:site_name" content="Rafael Gerônimo - Blog">
 <meta property="og:description" content="Hello World!">
 <meta property="og:locale" content="default">
@@ -66,7 +66,7 @@
       <div class="outer">
         <section id="main"><article id="post-first-post" class="article article-type-post" itemscope itemprop="blogPost">
   <div class="article-meta">
-    <a href="/2018/09/24/first-post/" class="article-date">
+    <a href="/first-post" class="article-date">
   <time datetime="2018-09-24T14:09:23.000Z" itemprop="datePublished">2018-09-24</time>
 </a>
     
@@ -91,7 +91,7 @@
       
     </div>
     <footer class="article-footer">
-      <a data-url="http://rafaelgeronimo.github.io/2018/09/24/first-post/" data-id="cjmgdd5im0000x4voyejpi20f" class="article-share-link">Share</a>
+      <a data-url="http://rafaelgeronimo.github.io/first-post" data-id="cjmgdgfh80000mcvowgnudln8" class="article-share-link">Share</a>
       
       
     </footer>
@@ -130,7 +130,7 @@
       <ul>
         
           <li>
-            <a href="/2018/09/24/first-post/">first-post</a>
+            <a href="/first-post">first-post</a>
           </li>
         
       </ul>
